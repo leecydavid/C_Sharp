@@ -1,0 +1,15 @@
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Game_DeveloperI/bin/Debug/net6.0/Game_DeveloperI
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Game_DeveloperI/bin/Debug/net6.0/Game_DeveloperI.deps.json
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Game_DeveloperI/bin/Debug/net6.0/Game_DeveloperI.runtimeconfig.json
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Game_DeveloperI/bin/Debug/net6.0/Game_DeveloperI.dll
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Game_DeveloperI/bin/Debug/net6.0/Game_DeveloperI.pdb
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Game_DeveloperI/obj/Debug/net6.0/Game_DeveloperI.csproj.AssemblyReference.cache
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Game_DeveloperI/obj/Debug/net6.0/Game_DeveloperI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Game_DeveloperI/obj/Debug/net6.0/Game_DeveloperI.AssemblyInfoInputs.cache
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Game_DeveloperI/obj/Debug/net6.0/Game_DeveloperI.AssemblyInfo.cs
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Game_DeveloperI/obj/Debug/net6.0/Game_DeveloperI.csproj.CoreCompileInputs.cache
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Game_DeveloperI/obj/Debug/net6.0/Game_DeveloperI.dll
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Game_DeveloperI/obj/Debug/net6.0/refint/Game_DeveloperI.dll
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Game_DeveloperI/obj/Debug/net6.0/Game_DeveloperI.pdb
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Game_DeveloperI/obj/Debug/net6.0/Game_DeveloperI.genruntimeconfig.cache
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Game_DeveloperI/obj/Debug/net6.0/ref/Game_DeveloperI.dll
