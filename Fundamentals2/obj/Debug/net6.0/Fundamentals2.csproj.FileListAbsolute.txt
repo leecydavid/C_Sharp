@@ -1,0 +1,15 @@
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Fundamentals2/bin/Debug/net6.0/Fundamentals2
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Fundamentals2/bin/Debug/net6.0/Fundamentals2.deps.json
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Fundamentals2/bin/Debug/net6.0/Fundamentals2.runtimeconfig.json
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Fundamentals2/bin/Debug/net6.0/Fundamentals2.dll
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Fundamentals2/bin/Debug/net6.0/Fundamentals2.pdb
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Fundamentals2/obj/Debug/net6.0/Fundamentals2.csproj.AssemblyReference.cache
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Fundamentals2/obj/Debug/net6.0/Fundamentals2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Fundamentals2/obj/Debug/net6.0/Fundamentals2.AssemblyInfoInputs.cache
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Fundamentals2/obj/Debug/net6.0/Fundamentals2.AssemblyInfo.cs
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Fundamentals2/obj/Debug/net6.0/Fundamentals2.csproj.CoreCompileInputs.cache
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Fundamentals2/obj/Debug/net6.0/Fundamentals2.dll
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Fundamentals2/obj/Debug/net6.0/refint/Fundamentals2.dll
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Fundamentals2/obj/Debug/net6.0/Fundamentals2.pdb
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Fundamentals2/obj/Debug/net6.0/Fundamentals2.genruntimeconfig.cache
+/Users/davidlee/Documents/Coding Dojo/C_Sharp/Fundamentals2/obj/Debug/net6.0/ref/Fundamentals2.dll
